@@ -1,3 +1,4 @@
 # Misiones
 
-investigar planes de Dr. Doom
+- investigar planes de Dr. Doom
+- capturar a Red Sccoolgit
